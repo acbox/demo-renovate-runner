@@ -2,9 +2,9 @@
   "extends": [
     "config:base"
   ],
-  "dryRun": true,
   "gitAuthor": "Linus Torvalds <torvalds@linux-foundation.org>",
   "platform": "github",
   "repositories": [
+    "acbox/demo-tf-downstream"
   ]
 }
